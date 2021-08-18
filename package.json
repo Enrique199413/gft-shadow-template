@@ -1,0 +1,26 @@
+{
+  "name": "@gft-templates/gft-shadow-template",
+  "version": "1.0.0",
+  "description": "Example for shadow profiles",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enrique199413/gft-shadow-template.git"
+  },
+  "keywords": [
+    "template",
+    "gft"
+  ],
+  "author": "Enrique López Callejas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enrique199413/gft-shadow-template/issues"
+  },
+  "homepage": "https://github.com/Enrique199413/gft-shadow-template#readme",
+  "dependencies": {
+    "@gft-web-components/gft-demo-helper": "^0.1.3"
+  }
+}
